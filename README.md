@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonethebuilder&label=Profile%20views&color=0e75b6&style=flat" alt="jonethebuilder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonethebuilder" alt="jonethebuilder" /></a> </p>
-
 - 🔭 I’m currently studying for a bachelors degree in **Computer Security at UiB!**
 
 <h3 align="left">Connect with me:</h3>
