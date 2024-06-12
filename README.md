@@ -1,9 +1,7 @@
-<div style="display: flex; align-items: center;">
-  <h1>Hi 👋, I'm Jone, and I like to build stuff!</h1>
-  <p> 
-    <img src="https://komarev.com/ghpvc/?username=jonethebuilder&label=Profile%20views&color=0e75b6&style=flat" alt="jonethebuilder" /> 
-  </p>
-</div>
+<h1>Hi 👋, I'm Jone, and I like to build stuff!</h1>
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=jonethebuilder&label=Profile%20views&color=0074D9&style=flat" alt="jonethebuilder" /> 
+</p>
 
 <h3>A self-certified gamer and technology enthusiast!</h3>
 
