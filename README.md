@@ -10,3 +10,9 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonethebuilder&show_icons=true&locale=en" alt="jonethebuilder" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonethebuilder&" alt="jonethebuilder" /></p>
 </div>
+
+📚 Learning
+- NextJS
+- ReactJS
+- Typescript
+- TailwindCSS
