@@ -4,6 +4,7 @@
 - 🎮 Self-certified gamer and technology enthusiast!
 - 🎨 I like to build stuff and create meaningful projects.
 - 🎓 Bachelor's degree in Computer Security from UiB.
+- 🌟 Microsoft Certified: AZ-900, SC-900, SC-300
 
 ## Skills & Technologies
 ### Proficient In:
