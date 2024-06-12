@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=jonethebuilder&label=Profile%20views&color=0074D9&style=flat" alt="jonethebuilder" /> 
 </p>
 
-- 🔭 I’m currently working as a Junior Solutions Consultant for **Innofactor!**
-- 🔭 I also have a bachelor's degree in **Computer Security at UiB!**
+✅ Bachelor's degree in **Computer Security at UiB!**
 
 <div style="display: flex; align-items: center;">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonethebuilder&show_icons=true&locale=en" alt="jonethebuilder" /></p>
