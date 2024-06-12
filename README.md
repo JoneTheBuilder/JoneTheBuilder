@@ -1,5 +1,7 @@
 # Hi there, I'm Jone! 👋
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## About Me
 - 🎮 Self-certified gamer and technology enthusiast!
 - 🎨 I like to build stuff and create meaningful projects.
