@@ -2,6 +2,7 @@
 <h3 align="center">A self-certified gamer and technology enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonethebuilder&label=Profile%20views&color=0e75b6&style=flat" alt="jonethebuilder" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 - 🔭 I’m currently working as a Junior Solutions Consultant for **Innofactor!**
 - 🔭 I also have a bachelor's degree in **Computer Security at UiB!**
