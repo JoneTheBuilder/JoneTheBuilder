@@ -23,4 +23,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonethebuilder&show_icons=true&locale=en)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
