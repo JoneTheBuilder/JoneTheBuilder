@@ -7,9 +7,11 @@
 - 🔭 I’m currently working as a Junior Solutions Consultant for **Innofactor!**
 - 🔭 I also have a bachelor's degree in **Computer Security at UiB!**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonethebuilder&show_icons=true&locale=en" alt="jonethebuilder" /></p>
+<div style="display: flex; align-items: center;">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonethebuilder&show_icons=true&locale=en" alt="jonethebuilder" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonethebuilder&" alt="jonethebuilder" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonethebuilder&" alt="jonethebuilder" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
