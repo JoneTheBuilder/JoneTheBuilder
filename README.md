@@ -12,7 +12,5 @@
 - 🎨 TailwindCSS
 
 ## GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jonethebuilder&label=Profile%20views&color=0074D9&style=flat" alt="Profile Views" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonethebuilder&show_icons=true&locale=en" alt="jonethebuilder" /></p>
+<img src="https://komarev.com/ghpvc/?username=jonethebuilder&label=Profile%20views&color=0074D9&style=flat" alt="Profile Views" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonethebuilder&show_icons=true&locale=en" alt="jonethebuilder" />
