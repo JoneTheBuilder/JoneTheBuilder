@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Jone, and I like to build stuff!</h1>
-<h2>Self-certified gamer and technology enthusiast!</h2>
+<p>Hi 👋, I'm Jone, and I like to build stuff!</p>
+<p>Self-certified gamer and technology enthusiast!</p>
 <p> 
   <img src="https://komarev.com/ghpvc/?username=jonethebuilder&label=Profile%20views&color=0074D9&style=flat" alt="jonethebuilder" /> 
 </p>
