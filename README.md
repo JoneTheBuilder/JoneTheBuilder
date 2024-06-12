@@ -5,7 +5,7 @@
 - 🎨 I like to build stuff and create meaningful projects.
 - 🎓 Bachelor's degree in Computer Security from UiB.
 
-## What I'm Learning
+## What I'm Currently Learning
 - 🔧 NextJS
 - ⚛️ ReactJS
 - 📘 TypeScript
