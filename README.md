@@ -7,8 +7,9 @@
 
 ## Skills & Technologies
 ### Proficient In:
-- Python
-- C#/.NET
+- 🐍 Python
+- ⚙️ C#/.NET
+- ☕️ Java
 
 ### Currently Learning:
 - 🔧 NextJS
