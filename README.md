@@ -24,3 +24,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonethebuilder&show_icons=true&locale=en)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23fff&borderColor=%230074d9&qColor=%230074d9&aColor=%230074d9&textColor=%230074d9&codeColor=%230074d9)
+
+<h3 align="left">I am currently reading:</h3>
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=43306206" alt="GoodReads reading" width="350" /></a>
